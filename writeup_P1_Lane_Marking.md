@@ -45,6 +45,7 @@ The goals of this project include:
 The output of the above methods would look like this: 
 
 ![alt text][test_images_output/output_Solid_Lanes_solidWhiteRight.jpg?raw=true]
+<img src="test_images_output/output_Solid_Lanes_solidWhiteRight.jpg" width="480" alt="Combined Image" />
 
 This works well with the given video clips too.
 
